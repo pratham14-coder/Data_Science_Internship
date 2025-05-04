@@ -1,8 +1,8 @@
 # 🚘 Automobile Price Prediction using Machine Learning
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/automobile-price-prediction)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/automobile-price-prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/automobile-price-prediction?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/pratham14-coder/Data_Science_Internship/Automobile_Price_Prediction_model)
+![GitHub stars](https://img.shields.io/github/stars/pratham14-coder/Automobile_Price_Prediction_model?style=social)
+![GitHub forks](https://img.shields.io/github/forks/pratham14-coder/Automobile_Price_Prediction_model?style=social)
 
 > 🔍 A machine learning model to predict car prices based on various features — built during my **Data Science Internship at [Rubixe](https://rubixe.com/)**.
 
